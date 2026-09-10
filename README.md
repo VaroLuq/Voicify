@@ -33,8 +33,7 @@ Speech is transcribed on-device, parsed into a structured command (song/artist e
 ## Setup
 
 1. Register an app in the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) and note your **Client ID**.
-2. 
-Add your Spotify Client ID to `local.properties` (not tracked in Git):
+2. Add your Spotify Client ID to `local.properties` (not tracked in Git):
 ```
 SPOTIFY_CLIENT_ID=your_client_id_here
 ```
